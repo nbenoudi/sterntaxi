@@ -1,3 +1,6 @@
+
+
+
 .App {
   text-align: center;
 }
@@ -14,14 +17,14 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: rgb(0, 0, 0);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: gold;
 }
 
 .App-link {
@@ -36,3 +39,23 @@
     transform: rotate(360deg);
   }
 }
+.App-image {
+  
+  
+background-repeat: no-repeat, no-repeat;
+background-image: url('../src/images/4.jpg');
+  background-blend-mode:screen;
+  background-position: 100%;
+ background-size: contain;
+
+  background-image: -moz-linear-gradient();
+ opacity: 0.8;
+  
+}
+ .App-body{
+ background-repeat: no-repeat, no-repeat;
+  text-decoration-color: rgb(0, 0,0);
+  background-color: rgb(0, 0,0);
+  content: "right";
+  background-position: 50%;
+ } 
