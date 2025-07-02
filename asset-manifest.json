@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sterntaxi/static/css/main.0fa47563.css",
+    "main.js": "/sterntaxi/static/js/main.5f4c21d0.js",
+    "static/media/1.jpg": "/sterntaxi/static/media/1.b4be841c4f4f1069e9da.jpg",
+    "static/media/2.jpg": "/sterntaxi/static/media/2.f84a498f362f87102221.jpg",
+    "static/media/3.jpg": "/sterntaxi/static/media/3.9ba1d7e0944bb1c0e812.jpg",
+    "static/media/4.jpg": "/sterntaxi/static/media/4.4223e7e6e0bc273ac3cb.jpg",
+    "static/media/7.jpg": "/sterntaxi/static/media/7.9ca049c136df9970adf3.jpg",
+    "static/media/haki.jpg": "/sterntaxi/static/media/haki.1d91303fcabc4161617e.jpg",
+    "index.html": "/sterntaxi/index.html",
+    "main.0fa47563.css.map": "/sterntaxi/static/css/main.0fa47563.css.map",
+    "main.5f4c21d0.js.map": "/sterntaxi/static/js/main.5f4c21d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa47563.css",
+    "static/js/main.5f4c21d0.js"
+  ]
+}
